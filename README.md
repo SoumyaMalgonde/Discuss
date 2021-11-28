@@ -29,7 +29,7 @@
     a. `cd Client`
     b. Install the dependencies.
     `yarn install`
-5.  Navigate into `Server` directory:
+5.  Navigate into `Server` directory:  
     a. add .env file
     ```sh
     # DATABASE CONNECTION ENVIRONMENT VARIABLES
@@ -42,6 +42,7 @@
     ```
     b. Install the dependencies.
     `npm install`
-    Yayy! you are all set to run the application!
-    Run server using: `npm start` in server directory.
-    Run client using: `yarn start` in client directory.
+    
+    Yayy! you are all set to run the application!  
+    Run server using: `npm start` in server directory.  
+    Run client using: `yarn start` in client directory.  
