@@ -3,6 +3,17 @@
 #### Discuss is a discussion forum, a place to gain and share knowledge. 
 #### Demo Link: [Watch demo](https://drive.google.com/file/d/1vKALPN8kSxMRUot9udh7DrAdRumnofZi/view?usp=sharing) 
 
+### Screenshots:
+Landing Page <br/>
+<img src="supporting docs/screenshots/LandingPage.png" width="800"/>   <br/> <br/>
+SignUp View <br/>
+<img src="supporting docs/screenshots/SignUp.png" width="800"/>  <br/> <br/>
+Create Discussion <br/>
+<img src="supporting docs/screenshots/CreateDiscussion.png" width="800"/>  <br/> <br/>
+Discussion Views <br/>
+<img src="supporting docs/screenshots/DiscussionView1.png" width="800"/>  <br/>
+<img src="supporting docs/screenshots/DiscussionView2.png" width="800"/>  <br/>
+
 ### Working Features: 
 
 - Create discussion post. 
@@ -42,6 +53,6 @@
     b. Install the dependencies.
     `npm install`
     
-    Yayy! you are all set to run the application!  
+    You are all set to run the application!  
     Run server using: `npm start` in server directory.  
     Run client using: `yarn start` in client directory.  
