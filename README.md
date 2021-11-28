@@ -1,8 +1,7 @@
 # Discuss
 
 #### Discuss is a discussion forum, a place to gain and share knowledge. 
-
-### Screenshots: 
+#### Demo Link: [Watch demo](https://drive.google.com/file/d/1vKALPN8kSxMRUot9udh7DrAdRumnofZi/view?usp=sharing) 
 
 ### Working Features: 
 
